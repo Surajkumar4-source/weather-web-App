@@ -14,20 +14,5 @@
   <li>Open Weather API</li>
  <li>Unsplash API</li>
 </ul>
-#### Steps to Use:
----
 
-
-```
-- Go to the directory
-- Run the index.html file
-- Just Type the city name you want to know the weather of, and then click on the search button.
-- After that it will automatically display Weather, Humidity, Wind Speed of the city.
-
-
-<h3> ScreenShots </h3>  
-<img src = "Weather-App.jpg" alt="Sample Image">
-<br>
-<video controls autoplay>
-  <source src="sample.mp4" type="video/mp4">
-</video>
+https://surajkumar4-source.github.io/weather-web/  Link to view live 
