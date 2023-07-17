@@ -15,4 +15,4 @@
  <li>Unsplash API</li>
 </ul>
 
-https://surajkumar4-source.github.io/weather-web/  Link to view live 
+https://surajkumar4-source.github.io/weather-web-App/   Link to view live 
